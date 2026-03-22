@@ -1,4 +1,3 @@
-##** STOP_WATCH** ##
 
 ## 📋 **Project Overview** 💡
 
