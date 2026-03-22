@@ -1,4 +1,4 @@
-**Stop_Watch**
+##** STOP_WATCH** ##
 
 ## 📋 **Project Overview** 💡
 
@@ -38,7 +38,7 @@ This is a **High-Performance Stopwatch Web Application** designed with a focus o
 
 1.  **Clone the Repo:** 📥
     ```bash
-    git clone [https://github.com/kousalya48/STOP_WATCH.git](https://github.com/kousalya48/STOP_WATCH.git)
+    git clone [https://github.com/kousalyac48/STOP_WATCH.git](https://github.com/kousalyac48/STOP_WATCH.git)
     ```
 
 2.  **Launch:** 🚀
@@ -63,6 +63,6 @@ This is a **High-Performance Stopwatch Web Application** designed with a focus o
 ## 🤝 **Connect With Me!** 🧑‍💻
 
 * **Name:** [Kousalya C] ⚡
-* **GitHub:** [@yourusername](https://github.com/yourusername) 🐙
+* **GitHub:** [@kousalyac48](https://github.com/kousalyac48) 🐙
 
 ---
